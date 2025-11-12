@@ -1,5 +1,12 @@
 ﻿# Landing Page — Nicho Eventos
 
+[![Demo](https://img.shields.io/badge/demo-online-success?logo=netlify)](https://nichoeventos.netlify.app/)
+
+| Tema | Stack | Demo |
+|---|---|---|
+| Eventos | HTML, Tailwind CSS, JS | https://nichoeventos.netlify.app/ |
+
+
 ![Preview](docs/preview.png)
 
 
